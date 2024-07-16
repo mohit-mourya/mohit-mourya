@@ -1,10 +1,10 @@
 ![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2020/05/aim_snake.gif)
 
-<h1 align="center">Hi 👋, I'm Mohit Mourya</h1>
+<h1 align="center">Hello 🙋‍♂️, I'm Mohit Mourya</h1>
 <h3 align="center">The Curious Coder - Always exploring and learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-mourya&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-mourya" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952124ajh7a88icesvqmv60rgsido7zvi2nh1w5u3z9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-mourya&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-mourya" /> </p>
 
 - 📫 How to reach me **mohit.mourya.sbg@gmail.com**
 
