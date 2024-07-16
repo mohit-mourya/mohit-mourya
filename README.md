@@ -1,4 +1,5 @@
-[![MasterHead](https://preview.redd.it/0xo3litdnka91.gif?width=640&crop=smart&auto=webp&s=e243e787e4268b5fde3c45f37e0ae9ff6643bdd2)]
+![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2020/05/aim_snake.gif)
+
 <h1 align="center">Hi 👋, I'm Mohit Mourya</h1>
 <h3 align="center">The Curious Coder - Always exploring and learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952124ajh7a88icesvqmv60rgsido7zvi2nh1w5u3z9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
